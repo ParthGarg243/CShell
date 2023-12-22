@@ -79,7 +79,7 @@ Options:
 -d: Compares word sizes of two text files.
 Note: Only one of the options (-n or -d) can be used at a time with the word command.
 
-2. dir
+### 2. dir
 
 It creates a directory, changes the path to that directory, and throws an error if the directory already exists.
 
@@ -93,7 +93,7 @@ Options:
 -r: Removes the directory if it already exists and creates a new directory instead of throwing an error.
 -v: Prints a message for each step in the running of this command.
 
-3. date
+### 3. date
 
 Returns the last modified date and time of a particular file. It is an external command.
 
